@@ -40,13 +40,13 @@ pkg install openssl -y
 pip install flask flask-cors requests
 git clone https://github.com/shahid2005a/DGTL-LOOKUP.git
 cd DGTL-LOOKUP
-python Lookup.py
+python main.py
 ```
 
 📲 Termux (Android) - Single Line
 
 ```bash
-pkg update && pkg upgrade -y && pkg install python python-pip git cloudflared rust openssl -y && pip install flask flask-cors requests && git clone https://github.com/shahid2005a/DGTL-LOOKUP.git && cd DGTL-LOOKUP && python Lookup.py
+pkg update && pkg upgrade -y && pkg install python python-pip git cloudflared rust openssl -y && pip install flask flask-cors requests && git clone https://github.com/shahid2005a/DGTL-LOOKUP.git && cd DGTL-LOOKUP && python main.py
 ```
 
 
@@ -65,19 +65,7 @@ Feature Status
 
 ---
 
-🛠️ Troubleshooting
 
-Issue Solution
-❌ python: command not found Use python3 or install Python
-❌ pip: command not found Use python -m pip
-❌ Permission denied Use sudo or run as Admin
-❌ No module 'flask' Run pip install flask flask-cors requests
-❌ Tunnel not working Check internet, wait 30s
-❌ Port in use Change port in script
-❌ git: command not found Install git: pkg install git or apt install git
-❌ cloudflared: not found Install: pkg install cloudflared or apt install cloudflared
-❌ rust: not found Install: pkg install rust or apt install rustc
-❌ openssl: not found Install: pkg install openssl or apt install openssl
 
 ---
 
