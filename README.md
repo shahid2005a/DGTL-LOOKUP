@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/github/forks/shahid2005a/DGTL-LOOKUP?style=for-the-badge&logo=github&color=blue" />
     <img src="https://img.shields.io/github/issues/shahid2005a/DGTL-LOOKUP?style=for-the-badge&logo=github&color=red" />
     <br />
-    <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS%20%7C%20Termux-brightgreen?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Python-4.2%2B-blue?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Platform-%20Termux-brightgreen?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Tunnel-Cloudflare-orange?style=for-the-badge&logo=cloudflare" />
     <img src="https://img.shields.io/badge/License-Educational%20Only-red?style=for-the-badge" />
     <br />
